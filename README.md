@@ -16,6 +16,11 @@
 - [Zenly](https://zen.ly/pukhn)
 - [GitHub](https://github.com/npukhn)
 
+# 🔠 Языки программирования
+- HTLM
+- ReactJS
+- NodeJS
+
 
 
 
