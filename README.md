@@ -17,7 +17,7 @@
 - [GitHub](https://github.com/npukhn)
 
 # 🔠 Языки программирования
-- HTLM
+- HTML
 - ReactJS
 - NodeJS
 
