@@ -12,6 +12,9 @@
 
 ⚠ Социальные сети
 - [VK](vk.com/pukhn)
+- [Telegram](t.me/pukhn)
+- [Zenly](zen.ly/pukhn)
+- [GitHub](github.com/npukhn)
 
 
 
