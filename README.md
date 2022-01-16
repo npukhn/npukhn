@@ -11,10 +11,10 @@
 - Вирус (с 2021 года) 
 
 ⚠ Социальные сети
-- [VK](vk.com/pukhn)
-- [Telegram](t.me/pukhn)
-- [Zenly](zen.ly/pukhn)
-- [GitHub](github.com/npukhn)
+- [VK](https://vk.com/pukhn)
+- [Telegram](https://t.me/pukhn)
+- [Zenly](https://zen.ly/pukhn)
+- [GitHub](https://github.com/npukhn)
 
 
 
